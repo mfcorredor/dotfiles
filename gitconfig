@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mariafcr25@gmail.com
+	name = Maria Corredor
